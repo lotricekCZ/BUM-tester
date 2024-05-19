@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding-left: 3em;
+    padding-top: 3em;
+    padding-right: 3em;
+    font-size: 1rem;
+}
+
+.answer_div {
+    display: none;
+}
+
+footer {
+    position: absolute;
+    flex-wrap: wrap;
+    bottom: 10px;
+}
+
+#question {
+    min-height: 8em;
+}
+/* Style the button that is used to open and close the collapsible content */
+button {
+    background-color: #eee;
+    font-size: 1rem;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 18px;
+    border: none;
+    text-align: left;
+    outline: none;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active,
+.collapsible:hover {
+    background-color: #888;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.answer_div, #stats {
+    padding: 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    min-height: 50%;
+}
+
+.buttons * {
+    margin-right: 1em;
+}
+
+.buttons {
+    padding-top: 1em;
+    padding-bottom: 10em;
+}
+
+.correct {
+    background-color: #90ffb5;
+}
+
+.wrong {
+    background-color: #ff9b9b;
+}
+
+.skip {
+    background-color: #96adff;
+}
+
+.collapsible {
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+}
