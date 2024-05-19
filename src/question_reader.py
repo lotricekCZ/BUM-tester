@@ -8,7 +8,7 @@ questions = questions_file.readlines()
 while len(questions) != 0:
     selected = random.randint(0, len(questions) - 1)
     selected_question = questions[selected].split(' ', 1)
-    print(selected_question[1])
+    print("\n", selected_question[1], "\n")
     a = ''
     while a != 'y' and a != 'n':
         a = input("operation: y/n/w: ")
