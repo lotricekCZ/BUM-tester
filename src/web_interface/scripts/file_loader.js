@@ -257,8 +257,9 @@ function new_question(state) {
     }
 
     document.getElementById("remaining").innerText = questions.length;
-
+    
     index = random_int(questions);
+    document.getElementById("ans_no").innerText = index;
     if (questions.length == 0) {
         element.innerHTML = `
         <h1>Máš to, žádný další otázky</h1>
