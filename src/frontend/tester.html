@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <title>BUM tester</title>
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <script src="scripts/file_loader.js"></script>
+</head>
+
+<body>
+    <main>
+        <h1 onload="new_question('first')" id="question">lorem ipsum</h1>
+        <button type="button" class="collapsible">Ukaž odpověď</button>
+        <div class="answer_div">
+            <p class="answer">Tady nic není. Bude až vyřeším tu javascript prasárnu s otevíráním souborů.
+            </p>
+            <a href="Otazky-vsechny-doplneno.pdf">Zatím kontrolujte vůči tomuto materiálu</a>
+            <p>číslo otázky je <span id="ans_no"></span></p>
+        </div>
+        </div>
+        <div class="buttons">
+            <button onclick="new_question('correct'); hide();" class="correct">Správně!</button>
+            <button onclick="new_question('wrong'); hide();" class="wrong">Špatně :(</button>
+            <button onclick="new_question('skip'); hide();" class="skip">Skip</button>
+        </div>
+        <button type="button" class="collapsible light">Zobraz statistiky</button>
+        <div id="stats">
+            <table>
+                <tr>
+                    <td>skipped</td>
+                    <td id="skipped"></td>
+                </tr>
+                <tr>
+                    <td>wrong</td>
+                    <td id="wrong"></td>
+                </tr>
+                <tr>
+                    <td>correct</td>
+                    <td id="correct"></td>
+                </tr>
+                <tr>
+                    <td>remaining</td>
+                    <td id="remaining"></td>
+                </tr>
+            </table>
+        </div>
+    </main>
+    <footer>If you have any requests on ways to improve this page, head to <a target="_blank"
+            href="https://github.com/lotricekCZ/BUM-verify/issues/new">this page</a> and hit me there!</footer>
+    <script src="scripts/collapse.js"></script>
+</body>
