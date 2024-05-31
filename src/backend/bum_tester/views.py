@@ -51,6 +51,7 @@ def pair(request, id):
 			'id': 		product.document_id,
 			'question':	product.question,
 			'answer':	answer.answer,
+			'images':   [i.source  for i in Image.objects.filter(answer=answer)]
 			}
 	return JsonResponse(result, safe=False)
 
@@ -64,5 +65,6 @@ def pairs(request):
 				'id': 		i[0].document_id,
 				'question':	i[0].question,
 				'answer':	i[1].answer,
+				'images':   [j.source for j in Image.objects.filter(answer=i[1])]
 				})
 	return JsonResponse(result, safe=False)
