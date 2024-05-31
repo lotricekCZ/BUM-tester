@@ -1,5 +1,4 @@
 env
 __pycache__
-*.png
+# *.png
 .vscode/settings.json
-src/backend/db.sqlite3
