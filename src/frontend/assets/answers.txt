@@ -1,0 +1,213 @@
+1.|2 atomy, 8*1⁄8 , protože sdílí v každém rohu právě 1⁄8 atomu se sousedními mřížkami + 1 atom uprostřed mřížky
+2.|a) Vakance, b) intersticiální atom, c) malý substituční atom, d) velký substituční atom\nDůležité děje uskutečňují jako je difúze a vznik tuhých roztoků {.png}
+3.|{.png}
+4.|Popisuje nestacionární difuzi. Tedy jak moc bude určité místo nasycené difundujícími atomy za určitý čas. Můžeme tedy počítat jak dlouho je potřeba sytit materiál, abychom dosáhli difuze až do požadované hloubky za určité teploty. Respektive je možné určit teplotu při daném čase.
+5.|Elastická: atomy se vlivem vnějšího zatížení příblíží či oddálí, ne však natolik, aby se přemístili do nového atomového uzlu. Po odlehčení se vrátí do původní polohy. Plastická: Při této deformaci se už atomy nemůžou navrátit do původní polohy, jelikož jsou již příliš vzdáleny. Dochází tak buď ke skluzu dislokací nebo dvojčatění. Celková: je součet elastické a plastické deformace. Po odlehčení je však možné pozorovat pouze plastickou, jelikož se elastická vrací do původní polohy.
+6.|Pomocí zkoušky tahem. Elastická deformace má lineární závislost na vnějším napě?, tzv. Hookův zákon. Z tohoto vztahu je možné vyjádřit konstantu E… Youngův modul pružnosti v tahu. Pokud se dostaneme za hranici meze kluzu, pak už tento vztah nepla?, protože dochází i k plastické deformaci.{.png}
+7.|Hodnota nepětí, která způsobí 0,2% z celkového poměrného prodloužení vzorku
+8.|Součinitel lomové houževnatosti je vztah, který vyjadřuje zatížení tělesa s trhlinou. Je dán vztahem {.png} V případě, že hodnota tohoto součinitele dosáhne kritické hodnoty, tedy lomové houževnatosti materiálu, pak dojde k lomu tělesa
+9.|{.png}Známe: diagram, teplotu, jednotlivé složení. Za pomocí průsečíků teploty se složením, zjistíme které fáze existují. Horizontální křivka protíná ostatní křivky, které ohraničují pole, průsečíky určují chemické složení koexistujících fází
+10.|Rovnovážný stav je stav, kdy má soustava absolutní energetické minimum, nemá snahu ani možnost přejít v jiný stav. Nerovnovážný stav je naopak stav, kdy se soustava snaží dostat do nižšího energetického stavu, buď metastabilního nebo stabilního.
+11.|Arrheniova rovnice vyjadřuje v závislosti na teplotě obecnou rychlost libovolného izotermického difuzního děje. Arrheniova rovnice slouží k určení číselné hodnoty konstanty A a aktivační energie Q uvažovaného děje. Vychází se z experimentálního zjištění jeho rychlosti y´ za různých teplot, následné grafické analýzy a závěrečných výpočtů (regresní analýzy). Arrheinova rovnice se převádí logaritmováním do lineárního tvaru. {.png} y ́ – rychlost sledovaného děje, fyzikální rozměr je různý podle děje (např. frekvence přeskoků [s-1], rychlost růstu průměru zrna [m.s-1], rychlost růstu plochy zrna [m2s-1] apod.) A – rychlostní konstanta sledovaného děje, fyzikální rozměr stejný jako y ́ Q – aktivační energie sledovaného děje [J.mol - 1 ] R – molární plynová konstanta; R = 8,314 [J.mol - 1 K - 1 ] T – teplota děje [K]
+12.|{.png}
+13.|Krystalické látky - atomy nebo molekuly v nich vytváří pravidelné struktury, uspořádány na dlouhou vzdálenost Amorfní látky - nemají krystalickou strukturu, tuhnou bez pravidelnosti, uspořádány jen na krátkou vzdálenost
+14.|{.png}{.png}
+15.|Poměrná podélná deformace {.png} Poměrná příčná deformace {.png} Tyto veličiny se používají pro určení Poissonova čísla, což je poměr příčné a podélné deformace. Slouží také k určení modulu pružnosti v tahu (E), který je definovaný jako poměr napětí a jím vyvolané deformace.
+16.|Dvojčatění (vysoká rychlost deformace a nízká teplota = pohyb neúplných lokací) Skluz dislokací (ve směru nejobsazenější roviny)
+17.|{.png}
+18.|Napětí, při kterém nedojde k lomu při únavové zkoušce, tedy při jakém napětí můžeme materiál zatěžovat teoreticky “nekonečně” krát.
+19.|Teplota, skupenství, krystalická struktura, poruchy mřížky
+20.|Fe3C = cementit
+21.|Vzniká při dendritické krystalizaci Kostra dendritů, která se tvoří nejprve, obsahuje méně přísady nebo nečistot, než jejich ostatní části a zejména než oblasti mezi dendrity. Rychlost difúze v tuhé fázi je podstatně menší než v tavenině. Proto si dříve ztuhlé objemy tuhého roztoku přibližně zachovávají původní složení, které se liší od objemů vznikajících později. Jednotlivé vrstvy postupně houstnoucích větví dendritů se tak od sebe liší svým složením.
+22.|Je to oblast rovnoměrných pružně plastických deformací, díky tomu můžeme pozorovat vlastnosti materiálu (houževnatost vs křehkost). Protože chceme vědět, která oblast deformace nezpůsobí stálou deformaci. Na horní mezi kluzu je potřeba větší napětí z důvodu vzniku stálé deformace(porušení materiálu potřebuje větší napětí)
+23.|Záleží na tom, jestli má materiál nějaké defekty nebo ne. Pokud ne, pak nás zajímá pouze mez kluzu, protože lomová houževnatost hraje roli pouze u materiálu s defekty. Pokud se jedná o materiál s defekty, pak záleží především na lomové houževnatosti, protože materiál vydrží díky defektu menší napětí. Pak záleží na rozměrech defektu, jak je znázorněno v grafu.{.png}
+24.|Nukleonové číslo N (počet nukleonů) Protonové číslo Z (počet protonů) Izotop je atom téhož prvku s různým počtem nukleonů, přičemž protonové číslo je stále stejné
+25.|Jde v podstatě o sdílení elektronu mezi dvěma atomy. Počet kovalentních vazeb atomu je určen počtem elektronů, který atom požaduje k vytvoření stabilní elektronové konfigurace.
+26.|4 atomy, 8*1⁄8 atomu, protože mřížka sdílí atom v každém rohu se sousedními mřížkami + 6*1⁄2 , kterou sdílí mřížka v každé ze stěn, kterou sdílí se sousedními mřížkami
+27.|Oblast nerovnoměrné plastické deformace (nespojitý přechod z jedné oblasti do druhé). K efektu dochází utržením dislokací a dochází k plastickému tečení za nižšího napětí. Jednoduše řečeno je nutno nejdříve hodně zatáhnout než se zrna pohnou a pak to jde snáz.{.png}
+28.|Creepova křivka neboli křivka tečení - je závislost poměrného prodloužení a času získaná na základě série creepových zkoušek pro konkrétní napěťové a teplotní podmínky {.png}
+29.|Lineární závislost v oblasti elastické deformace. Podélná deformace je úměrná vnějšímu napětí podle vztahu {.png}, kde E je Youngův model pružnosti v tahu.
+30.|Tato hodnota udává, kdy je soustava v rovnováze mezi těmito dvěma fázemi, k tání dojde až nad touto teplotou, kdy bude ΔG dostatečně velké, aby se děj aktivoval
+31.|{.png}{.png}{.png}
+32.|Napřed se u monomerů rozpadne dvojná vazba polyreakcí, vznikne vysoce reaktivní přechodová forma mer, následně se tyto mery navzájem navážou = polymerace
+33.|Přesycený tuhý roztok uhlíku v alfa železe v soustavě Fe - C. Vzniká jako podchlazený tuhý roztok při kalení bezdifúzní přeměnou z austenitu. Tvorba zárodků je přibližně rovna rychlosti šíření zvuku v kovech. Je velice tvrdý a pevný.
+34.|Vysoká teplota tání, pevnost v tlaku, tvrdost, křehké chování - způsobeno nepohyblivými dislokacemi a přítomností defektů (omezený pohyb dislokací). Citlivost na teplotní šoky Keramika je tvrdá a na úkor toho křehká, jelikož se pohyb dislokací je velmi omezen. hranice
+35.|Koherentní - podobnost krystalových struktur, růst v rovinách maximální shod y => krystalografické vztahy, hodnoty jsou malé Nekoherentní - struktury odlišné, spojitost mřížek není, hodnoty jsou velké
+36.|Oblast mezi zrny v polykrystalech, cílem je zajistit přechod od jednoho zrna k druhému. Hranice dělíme na maloúhlové a velkoúhlové. Maloúhlová hranice je tvořena řadou hranových dislokací. Velkoúhlová hranice zrn je složitější. Jsou to plošné poruchy složeny buď z dislokací (maloúhlé hranice) nebo z tenké amorfní vrstvičky (velkoúhlá deformace) a již na první pohled značnou překážkou pro pohyb dislokací. Velikost a tvar zrna se při deformaci mění, přičemž se tvar jednoho zrna přizpůsobuje tvaru zrn sousedních.
+37.|Látka difunduje základním materiálem většinou z míst, kde je difundující látky více do míst, kde je jí méně. Atomy náhodně přeskakují a to buď vakančním mechanismem nebo intersticiálním.
+38.|Mnoho malých rovnoměrně rozesetých kulatých zrnek žádné ostré hrany ani žádné velké kusy
+39.|{.png}
+40.|- Teplota, kde se plast zeskelní, neboli změkne a my můžeme dělat trvalé deformace, protože není tak pružný. - odlišnosti - po teplotě tání se rozteče, po zeskelnění pouze změkne.{.png}
+41.|FCC, HCP – 74%, 100% to není, protože pokud budeme brát, že atomy mají tvar koule, tak ani při nejtěsnějším možném umístění nejsou schopny objemově vyplnit tvar krychle
+42.|Mez kluzu - napětí, při němž začínají vznikat v materiálu trvalé plastické deformace. Podle způsobu namáhání jde o mez kluzu v tahu, tlaku, ohybu, krutu.
+43.|Energetická náročnost - Křehký lom (nízká energetická náročnost), Houževnatý lom Mikromechanismus lomu - Štěpný lom (lomu nepředchází plastická deformace), Tvárný lom
+44.|{.png}
+45.|{.png}kapalina/plyn = vypařování/kondenzace tuhá fáze/plyn = sublimace/desublimace kapalina/tuhá fáze = tuhnutí/tání
+46.|Difuze je základním mechanismem pohybu atomů. Dochází při ní k vyrovnání koncentračního spádu = z míst kde je látky více, do míst kde je jí méně Jejím cílem je právě vyrovnání rozdílu v koncentraci Difuze a její vliv na přeměnu skupenství - U plynů a kapalina je přemístění látky snadné a nemusí k ní ani být použito difuze - U pevných látek k přenosu atomů jinak než difuzí dojít nemůže, proto je to velmi důležitý děj
+47.|Intermediární fáze: sloučenina s vlastní krystalickou strukturou odlišnou od původních složek (A a B), vytváří vlastní AmBn. V binárním diagramu existuje uprostřed a nenavazuje ani na jednu ze složek. Tuhý roztok: Homogenní tuhá fáze tvořena alespoň dvěma složkami A a B. Má krystalickou strukturu převažující složky.
+48.|Strukturní směs austenitu ledeburitického a cementitu ledeburitického. Vzniká za eutektické teploty 1147°C a koncentraci cementitu 4,3%. Krystalizuje z taveniny.
+49.|Na povrchu se na vzduchu okamžitě vytváří mikroskopická vrstva Al2O3
+50.|Alotropie je vlastnost chemického prvku označující jeho schopnost vyskytovat se v několika různých strukturních formách, které mají výrazně odlišné fyzikální vlastnosti. Výsledkem vlastnosti jsou jednotlivé alotropické modifikace lišící se typem krystalové soustavy, fyzikálními a mechanickými vlastnostmi. Příkladem alotropního prvku je uhlík, vyskytující se ve formě grafitu, diamantu, grafenu a fullerenů nebo síra, která existuje ve formě kosočtverečných nebo jednoklonných krystalů
+51.|Nutnou podmínkou činnosti FR zdroje je existence překážek pohybu dislokace, kterými mohou být např. tvrdé částice jiné fáze v mikrostruktuře. Jestliže dislokace při svém skluzovém pohybu narazí na tyto překážky, chová se jako pružná guma a začne se prohýbat. Výsledkem tohoto procesu je vznik nové dislokace ve tvaru smyčky. Zbylý úsek zakotvený mezi částicemi se znovu prohýbá a celý proces se opakuje. Z jedné dislokace tak může vzniknout až několik set nových dislokací.{.png}
+52.|BCT je tetragonálně prostorově středěná mřížka, která vznikne z mřížky BCC, která se při kalení přesytí atomy C. BCC je krychlově tělesně středěná.
+53.|Houževnatost je mechanická vlastnost popisující, jak dokáže materiál odolávat deformaci či porušení. Zpravidla se udává jako velikost mechanické práce potřebné k přeražení. Její jednotkou jsou tedy Jouly [J].
+54.|RmT je napětí, které při dané teplotě způsobí po předem stanovené době lom.
+55.|Vratný - soustava může dosažený stav rovnováhy sama od sebe opustit, obnovuje se původní stav Nevratný- soustava nemůže dosažený stav rovnováhy sama od sebe opustit, děj nemůže sám od sebe proběhnout opačným směrem a obnovit původní stav
+56.|Sklo se ohřeje na teplotu převyšující 600°C a následně se prudce ochladí proudícím vysokotlakým vzduchem. Tím se během několika sekund ochladí povrch skla, ale vnitřní část zůstává teplá. Sklo tak získá vnitřní napětí, a tím i lepší vlastnosti. Sklo má vysokou pevnost v ohybu, velkou odolnost proti nárazům, tepelnou i chemickou odolnost a unese také větší zátěž. V případě rozbití se sklo rozpadne na malé neostré střípky.
+57.|Velikost atomů základního kovu a přísady Krystalová struktura - typ krystalické mřížky Podobné elektrochemické vlastnosti Valence
+58.|Intersticiální tuhý roztok uhlíku v čistém železe gama. Vyskytuje se v teplotním rozmezí 723 - 1499°C a koncentraci cementitu 0-2,14%. Má FCC mřížku.
+59.|Eutektoidní rozpad, precipitační, rozpad při vzniku proeutektoidních fázích
+60.|V makromolekulách jsou atomy vázány silnou kovalentní vazbou. Jednotlivé makromolekuly jsou svázány pouze poměrně slabými sekundárními silami (Van der Waalsovy síly)
+61.|Ferit, cementit sekundární Vznikají precipitačním rozpadem tuhého roztoku.
+62.|- relaxace - předepnuté šrouby u aplikací pracujících za vysokých teplot - creep - lopatky spalovacího motoru, turbodmychadla, jaderné reaktory
+63.|{.png}
+64.|Umožňují difuzní pohyb atomů intersticiálním mechanismem a vznik tuhých roztoků, kdy se do intersticiálních poloh mohou dostat atomy přísady.
+65.|{.png}
+66.|Pomocí transmisní elektronové mikroskopie Využívá velmi tenkých vzorků a dokáže pracovat i se signálem elektronů prošlých vzorkem Část elektronů projde a přitom se rozptýlí na krystalové struktuře vzorku
+67.|{.png}BCC materiály vykazují tranzitní chování, to znamená, že při vyšších teplotách vykazují vysokou houževnatost a při nižších naopak nízkou. Tím pádem je u BCC materiálů výrazně snažší jejich lom za nízkých teplot než u FCC materiálů, jejichž chování se s měnící teplotou tak rapidně nemění.
+68.|Neizolovaná otevřená ( ze soustavy do okolí a zpět může přecházet energie i látka ), neizolovaná uzavřená ( ze soustavy do okolí a zpět může přecházet energie, ne však látka) , izolovaná ( ze soustavy do okolí a zpět nemůže přecházet energie ani látka )
+69.|Statistická pravděpodobnost, že soustava má k dispozici aktivační energii Q k uskutečnění děje
+70.|S konstantním chemickým složením: - elektrochemické sloučeniny - Sloučeniny určené velikostním faktorem (intersticiální/substituční sloučeniny) S proměnným chemickým složením - elektronové sloučeniny
+71.|Na mezifázovém rozhraní „rostoucí krystal - tavenina“ vzniká v celém průběhu krystalizace vrstva taveniny obohacená přísadou, neboť odvod tepla (a růst krystalu) je zpravidla rychlejší než difúze přísady v tavenině. To způsobuje chemickou heterogenitu výsledné tuhé fáze. Protože složení na okrajích krystalu bude jiné než uprostřed, kde krystal ztuhnul nejpozději.
+72.|bezdifuzní přeměna = z jednoho tuhého roztoku na jiný, ale bez umožnění difuze, např. austenit na martensit difuzní přeměna = z jednoho tuhého roztoku na jiný, např. delta ferit na austenit
+73.|Bronz je slitina mědi a cínu, případně jiných kovů v malém množství
+74.|{.png}
+75.|{.png}{.png}
+76.|Překročeno kritické skluzové napětí = smykové napětí nutné pro pohyb dislokací = odolnost vůči plastické deformaci M řížka má dostatečný počet nezávislých skluzných systémů (více než 5)  Síla musí působit ve směru dislokací, a ve směru nejhustěji osazené roviny
+77.|Aktivační energie je energie potřebná pro překonání energetické bariéry, tak aby mohl systém přejít z nestabilního stavu do metastabilního či stabilního. Je to nezbytná podmínka, bez které přeměna nemůže začít. Lze ji určit ze vztahu podle Arrheniovy rovnice.
+78.|Cementování: Uhlík difunduje do povrchu cementované součásti, zvýšená koncentrace uhlíku vytváří na povrchu pevnější ocel, schopnou navíc i tepelného zpracování (zušlechtění).
+79.|Způsobí dislokaci v krystalové mřížce. Mechanické vlastnosti se zhorší.
+80.|Mřížkové poruchy ulehčují postup difuze, jelikož umožňují snadnější pohyb atomů látkou.
+81.|Nucený termodynamický děj se musí vyvolat umělým technickým zásahem. Komprese plynu, ohřev vody
+82.|Brinell - pro měkké materiály, heterogenní materiály, běžná kontrola velkých serií ( a tam kde HB není použitelná) Rockwell - pro materiály s hodně povrchovými nerovnostmi, pro všechny typy tvrdostí Vickers- pro tvrdé materiály, měření tvrdosti (min 10ti násobek R kuličky), Kladívko Poldi - dílenské měření
+84.|Vznikají z důvodu fluktuace (stálá změna) teploty a energie Homogenní - spontánně přímo v tavenině Vytvoření zárodku tvaru koule s poloměrem r je spojené se změnou volné entalpie ∆G spočívající v uvolnění volné energie ∆GV závislé na objemu a zvýšení povrchové energie vznikem nového povrchu (mezifázové rozhraní) závislé na měrné energii fázového rozhraní (povrchovou energii) γ Heterogenní - na již jiných přítomných zárodcích jiné fáze..např.písková forma (méně energeticky náročná) Zárodky pevné fáze vznikají na cizích površích v tavenině (stěny formy, částice cizích tuhých fází apod.). Heterogenní nukleace je běžnější a energeticky výhodnější než homogenní nukleac
+85.|Keramika má zpravidla hodně vnitřních defektů, ty jsou různě velké. Ze statistického hlediska se tak může stát, že vybereme vzorek, který neobsahoval velký defekt a keramika tak bude vykazovat lepší vlastnosti, než kdybychom zkoušeli větší vzorek, který by větší defekt s větší šancí obsahoval.
+86.|Analogicky k ternární soustavě, kdy jsou složky 3 a sestrojuje se rovnostranný trojúhelník, by se sestrojil čtverec. Tím je pak možné provádět řezy, kdy se 2 složky budou brát jako konstantní a ze dvou zbylých je možné vytvořit binární diagram
+87.|Homogenní tuhá fáze tvořena alespoň dvěma složkami A a B. Má krystalickou strukturu převažující složky Substituční tuhé roztoky Intersticiální tuhé roztoky
+88.|{.png}
+89.|T27J - teplota, při které je práce, která přerazí vzorek právě 27J, nejnižší pracovní teplota, u BCC a HCP materiálů při teplotě nižší než T27 nastává křehký lom, nad T27 houževnatý lom T0,5 - teplota při které potřebná práce dosahuje aritmetického průměru maxima a minima, tedy střední hodnota
+90.|Představíme si, že krystal nařízneme a podél dislokační čáry posuneme o vzdálenost rovnou velikosti b – vektoru. Proto je b vždy rovnoběžný s dislokační čárou. Ze soustavy rovin se vytvoří spojitý dislokační stupeň procházející krystalem od jednoho jeho povrchu ke druhému a proto nemůže být stanovena rovina dislokace. Šroubová dislokace vystupující před rovinu nákresny se označuje O, za rovinu nákresny Šroubová dislokace Její vznik si můžeme představit tak, že krystal byl rozříznut v rovině, která je na obr. 9.2b vyšrafovaná až k přímce procházející bodem A kolmo na čelní stěnu. Horní část krystalu byla zasunuta dozadu o jednu meziatomovou vzdálenost a pak byl krystal opět spojen. Maximální porušení je podél přímky procházející bodem A, kolem dislokační čáry.{.png}{.png}
+91.|{.png}
+92.|Koherentní, nekoherentní, semikoherentní
+93.|Atomy přísady nestíhají s odebíraným teplem difundovat do základní látky, ta tedy krystalizuje s větší rychlostí než by do ní stíhali difundovat atomy přísady. Díky tomu je krystal na počátku nejméně bohatý na přísady a na konci krystalizace naopak nejvíc.
+94.|{.png}
+95.|delta ferit, austenit, ferit
+96.|{.png} stacionární {.png}nestacionární
+97.|{.png}v=k+n-f n je u BRD vždy 1, u čistého A a B není obsažená druhá složka, takže se tam k=1, f je počet koexistujících fází v bodě Čisté A/B - v=1+1-2=0 Tavenina/tuhý roztok - v=2+1-1=2 Oblast krystalizace - v=2+1-2=1
+98.|alfa -> BCC mřížka nejhustěji obsazená rovina a*√3 délka stěna mřížky a je přibližně 1* 10 −10 m {.png}(Vzdáleností ve kterých jsou 2 atomy) takže cca 800 000 atomů železa
+99.|O několik stupňů Celsia nahoru
+100.|Obvykle atomy s přebývajícím val. elektronem doplní atom s chybějícím val elektronem díky elektrostatické přitažlivé síle Atom, který předal vazebný elektron vytváří kladně nabitý kation. Druhý atom, který vazebný elektron přijal vytváří anion (záporně nabitý).
+101.|{.png}
+102.|Mřížka je rozdělena a mezi roviny atomů je vložena jedna atomová polorovina. Čára, která tvoří spodní konec poloroviny se nazývá hranová dislokace. Narušují pevnost materiálu
+103.|fr jaká je odpověď, v dokumentu odpověď není a já jsem blbej ajťák, ne strojař.
+104.|Natahuje se, ale po uvolnění napětí se vrátí zase zpět do původní polohy. Působí totiž jen elastická deformace. Pokud by byl materiál namáhán dlouhodobě a cyklicky, pak se hromadí dislokace a může dojít k únavovému lomu viz Wöhlerova křivka
+105.|Napětí, které je potřeba překonat, aby došlo k plastické deformaci a uvolnění atomů z původních uzlů. Tím pádem už se nemohou vrátit a dochází k plastické trvalé deformaci.
+106.|Na přístroji: výška nebo úhel překmitání kladiva, poté výpočtem práce potřebná k přeražení Na vzorku: charakter lomu, tedy podíl tvárného a štěpného lomu
+107.|Slouží k určení provozního napětí pro daný počet cyklů či naopak. Určuje se pro symetrický zátěžný cyklus. Je to křivka znázorňující závislost amplitudy napětí na počtu cyklů do lomu{.png}
+108.|{.png}Tuhý roztok tuhne za stále se snižující teploty
+109.|Na mezifázovém rozhraní „rostoucí krystal - tavenina“ vzniká v celém průběhu krystalizace vrstva taveniny obohacená přísadou, neboť odvod tepla (a růst krystalu) je zpravidla rychlejší než difúze přísady v tavenině. To způsobuje chemickou heterogenitu výsledné tuhé fáze. Protože složení na okrajích krystalu bude jiné než uprostřed, kde krystal ztuhnul nejpozději.
+110.|Skluz dislokací je způsoben překročením kritického skluzového napětí vlivem vnějšího zatěžování. Má za následek nevratnou plastickou deformaci, protože se atomy uvolnily z původních uzlů.
+111.|Je pomalu postupující a kumulující se poškození materiálu, které vzniká opakovaným zatěžováním a z toho plynoucími plastickými deformacemi v místech koncentrace napětí.Proces může vést až k únavovému lomu. Průběh je závislý na počtu zatěžovacích cyklů. Únavové poruchy závažně ovlivňují životnost konstrukcí. Velikost zatěžování: menší jak Rm, či dokonce Re Cyklické, kmitavé zatěžování - na povrchu nastane mikroskopická trhlina s postupem cyklování k únavovému lomu
+112.|Stacionárni: 1. fickův zákon, koncentrace se s časem nemění Nestacionární: 2. fickův zákon, čas hraje roli (koncentrace je závislá na čase)
+113.|odpověď taky vynechal, uličník :(
+114.|Volná entalpie zárodku a volná entalpie taveniny. Zárodek se stane stabilní, pokud jeho volná entalpie je nižší než volná entalpie taveniny.
+115.|Fe, polymorfní kov, do Curieho bodu feromagnetické, dále paramagnetické, dobrá tepelná i elektrická vodivost, měkké, tvárné, malá pevnost. Slitiny dělíme na ocel (C do 2,1%) a litiny (C nad 2,1%)
+116.|Extrémně rychlé ochlazení, v průběhu nesmí stihnout vzniknout nové difúzní změny. Při nízké teplotě je difuze atomů zanedbatelná
+117.|Ze Sauverových diagramů je možné určit podíl fází pro jednotlivé koncentrace při jedné teplotě. V podstatě nepřináší žádné nové informace oproti BRD, z kterého je možné tyto informace vyčíst také pákovým pravidlem.
+118.|Kovalentní, iontové
+119.|Viskozitu Čím delší řetězec, tím lepší vlastnosti. Když je krátký, tak je polymer viskozitní, střední - želé, dlouhý - tuhý.
+120.|Ve slupce nejblíž jádru, má elektron nejnižší energii. Se zvyšující se hodnotou hlavního kvantového čísla se zvyšuje energie daného elektronu, neboť mezi ním a kladně nabitým jádrem jsou slabší přitažlivé síly. Přechod elektronu do stavu s jinou energií provází pohlcení nebo vyzáření fotonu. Atomové spektrum
+121.|Závisí na energii a teplotě, takže pokud bude špatná teplota, tak to rychleji neproběhne, než když bude menší energie a vyšší teplota. Arrheniova věta
+122.|Zkoušky tvárnosti: zkoušky plechů (Zkoušky dle Erichsena), zkoušky drátů (zkoušky střídavým ohybem), zkoušky tyčí (zkouška lámavosti, pěchování za studena) {.png}{.png}
+123.|{.png}Pro litinu s lupínkovým grafitem, nebo kuličkovým grafitem 
+124.|{.png}Tvářené, slévárenské, nevytvrditelné, vytvrditelné Vlastnosti: kujný, elektricky i tepelně dobře voditelný, nepolymorfní FCC, nízké mechanické vlastnosti
+125.|Tuhé roztoky(substituční/intersticiální tuhé roztoky), Intermediární fáze (s konstantním/proměnným chemickým složením)
+126.|Rozpad: Homogenní soustava se přemění na heterogenní soustavu, vždy probíhá difuzně Přeměna: Homogenní soustava se přemění na jinou homogenní soustavu, difúzní i bezdifúzní (martenzitická přeměna)
+127.|{.png}{.png}
+128.|Jsou částečně krystalické z jednoduchých a dlouhých řetězců
+129.|{.png}
+130.|Vyjadřuje obecnou rychlost libovolného izotermického děje v závislosti na teplotě (Čím větší je hodnota A a T, a čím menší je hodnota Q, tím rychleji daný děj probíhá).
+131.|Velikost atomů základního kovu a přísady, krystalová struktura, podobné elektrochemické vlastnosti, rozpouštěný atom by měl mít větší valenci než základní kov
+132.|Ferit, austenit, delta ferit
+133.|Soustava musí překonat energetickou bariéru
+134.|Musíme podchladit austenit v čase kratším než je doba potřebná pro perlitickou přeměnu. Austenit->Martenzit. Látka finální bude nízkoteplotní přesycený tuhý roztok a dojde k amsivní deformaci mřížky.
+135.|prosím, další chybějící odpověď, ten, kdo ji zná, prosím na odkaz dole.
+136.|Koordinační číslo u BCC je 8 a počet skluzových systémů je 48. Což znamená že vykazuje tato mřížka dobrou tvárnost. Koordinační číslo u FCC je 12 a počet skluzových systémů je 12. Tyto systémy jsou dobře tvárné zastudena. Jelikož plasticita závisí na skluzových systémech pro možný pohyb dislokací. Hlavním mechanismem plasticity je skluzový pohyb dislokací. Čím více tedy máme systémů, tím lépe se pohyb dislokací uskutečňuje. Tahová zkouška
+137.|čím rychlejší ochlazování, tím míň se zmenšuje měrný objem skla, použití u tvrzeného skla
+138.|Jsou to delokalizované valenční elektrony v kovové vazbě. Tyto elektrony se volně pohybují ve všech směrech. Z tohoto důvodu grafit vede elektřinu po rovinách atomů uhlíku.
+139.|{.png}
+140.|Jeho výskyt je podporován zejména vysokou rychlostí deformace a nízkou teplotou. Při dvojčatění se atomy v části krystalu přesunou o necelou meziatomovou vzdálenost, a to tak, že vznikne oblast mřížky souměrná podle roviny dvojčatění s neposunutou mřížkou. Přesun atomů při dvojčatění je výsledkem pohybu neúplných dislokací, na rozdíl od skluzu dislokací, kde se jedná o pohyb úplných dislokací.
+141.|{.png}
+142.|Charakteristika vyjadřující odpor materiálu vůči iniciaci lomu z defektu. K lomu tělesa dojde, když zatížení součásti (vyjádřené součinitelem intenzity napětí) dosáhne hodnoty lomové houževnatosti.
+143.|Je časově závislá trvalá deformace, ke které dochází za vysokých teplot při konstantním napětí nižším než mez kluzu. Kdežto relaxace je zbytkové napětí. Relaxace je napětí, které působí po daném čase a při dané teplotě zkoušky.
+144.|Alfa ferit: Ferit α je intersticiální tuhý roztok uhlíku v železe alfa. To znamená, že atomy uhlíku se nacházejí v meziatomových prostorách krystalové mřížky železa α. Rozpustnost uhlíku v alfa železe je funkcí teploty (při konstantním tlaku). Nejvyšší rozpustnost uhlíku je při eutektoidní teplotě, ferit α je při této teplotě nasycený při koncentraci uhlíku 0,022 hm. % Delta ferit: Zde je rozpustnost uhlíku až 0,1%. Je od 1392 stupně celsia až do teploty tavení. Má opět krystalickou mřížku krychlově prostorově středěnou. (Rozdíl teplotní, koncentrací uhlíku)
+145.|Precipitace je rozpad přesyceného tuhého roztoku při ohřevu na teploty nižší než je teplota solidu pro danou slitinu. Precipitace se uplatňuje u slitin hliníku, hořčíku, některých slitin mědi a také (i když méně významněji) i u slitin železa. Při žíhání.
+146.|Jsou pevnější, méně plastické, mají větší elektrický odpor, jiné magnetické vlastnosti, jiná barva
+147.|Bílé litiny vznikají v metastabilní soustavě Fe-Fe3C nad koncentrací 2,14% hm uhlíku. Uhlík je tu tedy ve formě cementitu. pro svou vysokou odolnost velmi těžkých provozních podmínkách suchého tření, v hornictví v drtičích pro drcení,  Šedé litiny vznikají ve stabilní soustavě Fe-C, kde je příměsí uhlík ve formě grafitu.
+148.|Zabraňují pohybu dislokací, materiál tedy zpevňují.
+149.|Reaktoplasty jsou pevnější, protože mají síťovou strukturu. Reaktoplast je tvořen trojrozměrnou sítí a proto při působení vnější síly dochází k jeho destrukci. Termoplasty (měkčí) mají menší odolnost proti deformacím než reaktoplasty (tvrdší). Reagují natahováním řetězci.
+150.|Tvárný lom- větší spotřeba energie, výrazná plastická deformace, jamkovitý charakter Štěpný lom- menší spotřeba energie, bez plastické deformace, při menším napětí než je mez kluzu, velká rychlost šíření, kolmý na normálové napětí Typicky je to keramika a sklo
+151.|Kladně nabité atomové jádro, delokalizované negativně nabité elektrony Atomy se vzdalují valenčních elektronů. Jádra jsou spojená vzájemnou přitažlivostí k elektronům. Kujný, houževnatý, vodivý materiál
+152.|68% (počet atomů * objem atomu )/objem krychle
+153.|Statické-postupně narůstající síla vyvolávající deformaci (zkoušky:tlakem, tahem, ohybem, ve smyku, krutu, tvrdosti) dynamické-síla působí rázem nebo je síla opakovaně proměnná (zkoušky:rázové, únavové)
+154.|míjivý: napětí od nuly do maxima, pulzující: od -amplitudy do +amplitudy Jsou to parametry asymetrie zátěžného cyklu.{.png}{.png} Při klasifikaci zatěžování, dále pro určení křivky životnosti, kdy Oa je napětí závislé na počtu cyklů do lomu
+155.|Stabilní: Stabilní – stav rovnovážný – tzn. stabilní rovnováha, soustava se po libovolně dlouhou dobu nemění, odpovídá tomu minimum volné entalpie Metastabilní: V systémech nerovnovhy naopak existují čisté toky hmoty nebo energie. Pokud je možné spustit takové změny v systému, ve kterém k nim již nedochází, říká se, že je v systému meta-stabilní rovnováha. metastabilní nerovnovážný stav je oddělen od rovnovážného energetickou bariérou Využito v rovnovážných diagramech, pákové pravidlo, Gibbsova energie{.png}{.png}
+156.|Difuze je základním mechanismem pohybu atomů. Dochází při ní k vyrovnání koncentračního spádu = z míst kde je látky více, do míst kde je jí méně. Jejím cílem je právě vyrovnání rozdílu v koncentraci.
+157.|Parametrizuje vnitřní moment hybnosti dané částice
+158.|BCC nejhusteji obsazené směry <110> FCC nejhustěji obsazený směry <111> HCP nejhustěji obsezené jsou roviny zakladen
+159.|odpověď mi zašlete přes odkaz dole, zatím chybí
+160.|{.png}Pevnostní charakteristiky
+161.|Délka při které dojde k jejímu nestabilnímu šíření{.png}
+162.|Tomuto ději nelze zabránit, nastanou-li vhodné podmínky k jeho uskutečnění
+163.|Rozpuštění soli ve vodě.
+164.|{.png}
+165.|{.png}
+166.|Proces kalení spočívá v ohřátí skla na teplotu převyšující 600 °C (obvyklá je teplota kolem 620 °C) a následném prudkém ochlazení proudícím vysokotlakým vzduchem. Tím se během několika sekund ochladí povrch skla, ale vnitřní část zůstává teplá. Sklo tak získá vnitřní napětí, a tím i lepší vlastnosti. Odolnost proti úderům, zvýší se ohybová pevnost, tepelná i chemická odolnost a unese také větší zátěž.
+167.|{.png}
+168.|Precipitační vytvrzování, žíhání
+169.|Hookův zákon
+170.|Vysoká rychlost deformace a nízká teplota
+171.|Tvrdostní zkouškou podle Rockwella, ta jediná bere v charakter hloubku.
+172.|{.png}
+173.|Udává největší počet fází, které mohou v dané soustavě za určitých vnějších podmínek existovat ve vzájemné rovnováze (tj. beze změny) v+f=k+n v....... počet stupňů volnosti f........ počet fází k....... počet složek (komponent) soustavy n....... počet vnějších proměnných činitelů
+174.|Z volné entalpie soustavy, to znamená, že soustava musí být v nerovnováze, aby volné entalpie bylo dostatek. Entalpie je veličina vyjadřující tepelnou energii uloženou v látce.
+175.|Pákové pravidlo Sauverův diagram{.png}
+176.|Perlitický rozpad: Při rychlém ochlazování nevzniká perlit, ale bainit (je jemnější, což zapříčinila rychlost chlazení). Bainit je stejně jako perlit kompozit ferit-cementit, ale částice cementitu jsou skoro až nanometrické úrovně.
+177.|Polymer zde přechází z tvrdé, tuhé, sklovité formy na měkkou, ohebnou. Můžeme jej tedy deformovat.
+178.|polymorfní kov, špatná tepelní i elektrická vodivost, pevný a lehký, odolný proti korozi,obtížné zpracování, horší obrobitelnost, dobrá tvářitelnost a svařitelnost, využívá se ve zdravotnictví, papírenství, chemickém průmyslu, slitiny se využívají v civilních leteckých motorech.
+179.|- Uhlík ve slitinách překrývá vliv dalších přítomných prvků - Na vlastnosti technických slitin železa má významný vliv uhlík Ocel - slitina železa, uhlíku a dalších legujících prvků Litina – slitina železa s uhlíkem {.png}{.png}
+180.|{.png}{.png}
+181.|Chemické složení = interní faktor ovlivňující mechanické vlastnosti ! chemické složení odpovídá určitému uspořádání v krystalové struktuře, vakance, intersticiály atd. Mřížka pak přímo ovlivňuje mechanické vlastnosti materiálu.
+182.|{.png}
+183.|Difuze je přenosný děj, dochází při něm k přemístění difundující látky základním materiálem, většinou z míst, kde je difundující látky více do míst, kde je jí méně (koncentrační spád) Uskutečňuje se pomocí velkého počtu náhodných přeskoků atomů Je to děj samovolný, nevratný, tepelně aktivovaný (Arrheniova rovnice)
+184.|eutektická : L->tuhá fáze; eutektoidní: tuhá fáze->tuhá fáze eutektická – reakce probíhající při konstantní teplotě, kdy tavenina krystalizuje na grafitické eutektikum eutoktoidní – reakce probíhají za konstantní teploty, kdy se austenit rozpadá na grafický eutektoid
+185.|{.png}
+186.|{.png}{.png}Slitiny: konstrukční slitiny, slitiny se zvláštními fyzikálními vlastnostmi, žárovzdorné a žáropevné slitiny
+187.|- 1. Úprava práškového materiálu - 2. Tvarování keramického polotovaru - 3. Sušení resp. odstraňování pojiva - 4. Vysokoteplotní zpracování – slinování - 5. Opracování slinutého keramického dílu – broušení, leštění
+188.|uhlík v intersticiálních polohách,který vytvrzoval materiál, opouští krystalickou mřížku -> snížení počtu deformací -> snížení křehkosti
+189.|Je to nekonzervativní pohyb dislokace Pohyb hranové dislokace ve směru kolmém ke skluzové rovině Pohyb se může uskutečnit, přidá-li se k vrstvě atomů, která končí hranovou dislokací, postupně další řada atomů (pohyb dolů) nebo poslední řada atomů hranové dislokace nahradí vakancemi (pohyb vzhůru) Jsou spojeny se vznikem a zánikem bodových defektů{.png} Dále se uplatňuje{.png}
+190.|{.png}
+191.|V krystalické formě substitučních tuhých roztoků atomy přísady B zaujmou místa základního kovu A. Rozdílná velikost atomů přísady v tuhém roztoku = distorze krystalické mřížky, jak můžeme vidět v poruchách mřížky (malý substituční atom, velký substituční atom)
+192.|Konstrukční a technologické vruby – jsou interními faktory, které ovlivňují mechanické vlastnosti - > jsou to KONCENTRÁTORY NAPĚTÍ
+193.|Vysvětlete co znamená MPa, síla vztažená na průřez vzorku N/mm2 nebo Pa [N/m2] Např.: můžeme vidět ze vzorce{.png}
+194.|Hranicí zrn rozumíme rozhraní mezi dvěma oblastmi materiálu s různou orientací krystalové mřížky. Rozlišujeme maloúhlové a velkoúhlové. Hranice je maloúhlá nebo velkoúhlá v závislosti na úhlové dezorientaci mezi zrny, která je odděluje. Rozlišujeme je z důvodu toho, že mají výrazně odlišnou reakci na mechanické nebo teplotní zatěžování a různé vlastnosti hranic. V případě maloúhlé hranice zrn je porucha dislokace mřížky na hranici mezi zrny. Dislokace se na hranicích zrn zastavují a dále nepokračují.{.png} Hranice zrna předpokládá větší rozdíly v orientaci sousedních mřížek. Dislokace se k sobě přiblíží a začnou se překrývat; hranice je neuspořádaná, nazývá se hranice s velkým úhlem. Má velkou koncentraci bodových a čárových poruch. Hranice zrn mají velký vliv na chemické, fyzikální a mechanické vlastnosti – např. koroze probíhá přednostně po hranicích zrn; difuze po hranicích je také rychlejší než přes zrno.
+195.|{.png}Mechanické vlastnosti materiálů – pevnost, pružnost, plasticita, houževnatost Deformační chování vzhledem k jejich struktuře je složitější Na vnější namáhání reagují tak, že deformace obsahují vždy složku pružnou i plastickou a navíc ještě deformaci zpožděně elastickou Celková deformace polymerů je časově závislá Můžeme tedy říci, že při krátkodobém zatěžování se polymer chová jako tuhý a pevný materiál, zatímco při dlouhodobém zatěžování je jeho deformace větší a materiál je poddajný (tvárný, plastický)
+196.|{.png}Počet určuje Gibbsův zákon fází
+197.|{.png}
+198.|Zvýšit teplotu (čím větší jsou hodnoty A a T, a čím menší je hodnota Q, tím rychleji daný děj probíhá.) A= rychlostní konstanta sledovaného děje T=teplota děje Q= aktivační energie sledovaného děje
+199.|koncentrací 2,14% C (maximální rozpustnost uhlíku ve feritu), bílé litiny se nachází nad touto koncentrací.
+200.|{.png}{.png}
+201.|Termoplasty jsou lehce recyklovatelné na rozdíl od reaktoplastů Reaktoplasty se při ohřevu netaví, ale dochází k dekompozici, kdežto termoplasty při zahřátí měknou a taví se, dají se tvářet při zvýšených teplotách Reaktoplasty mají dobrou tuhost, pevnost a tvrdost, malou tažnost a rázovou odolnost. (bakelit, pryž, guma) Termoplasty jsou plastické a tvárné, mají slabé sekundární vazby. (PET láhev nebo PVC, polystyren)
+202.|kuličkový (nejlepší vlastnosti), lupínkový (nejhorší ), vločkový, pavoučkovitý, červíkovitý, zrnitý,...
+203.|Rovnováha, při které se nemění stav systému, avšak dochází k vnitřním změnám tohoto systému Rovnovážný stav lze ovlivnit teplotou, tlaky, koncentracemi, počátečním složením „když změnou vnějších podmínek (akcí) ovlivníme soustavu, proběhnou v ní procesy (reakce) směřující k eliminaci tohoto vlivu“ Koncentrace reaktantů i produktů chemické reakce je konstantní v čase Reakční rychlost zpětné reakce se vyrovná rychlosti reakce přímé = dynamická rovnováha{.png}
+204.|Výsledky únavových zkoušek: Únavová životnost = počet cyklů do porušení pro dané konkrétní napětí Časovaná únavová pevnost -napětí při kterém dojde k únavovému lomu po určitém konkrétním počtu cyklů – např po 500 milionech cyklů Trvalá únavová životnost: nedochází již k únavovému porušení ani při vysokých počtech cyklů
+205.|(?)Energie ve fázovém rozhraní je odlišná od energie molekul v objemové fázi. Pro vytvoření nového povrchu je zapotřebí dodat určitou práci. Vliv fázového rozhraní na vlastnosti celého systému je tím větší, čím je větší počet molekul.
+206.|koncentrace v daných teplotách a slitinách, překrystalizace, teploty tavení určité slitiny V jakém stavu se daná látka za daných podmínek nachází nebo zda vůbec existuje Jak postupovat při přípravě látky
+207.|S křivka: experimentální závislost podílu nové fáze f na čase t izotermické přeměny Formální popis - Avramiho rovnice{.png}
+208.|Plasticita = tvárnost, je mechanická vlastnost materiálů popisující schopnost měnit tvar bez porušení celistvosti při plastické deformaci.{.png}{.png} Zkouška tahem - Mez pevnosti{.png}
+209.|Deformační zpevnění se objevuje u materiálů zpracovávaných tvářením za studena. Původně měkké a tvárné kovy se s rostoucím stupněm přetvoření stávají tvrdšími a pevnějšími. S postupující deformací se totiž aktivizuje stále více zdrojů dislokací a roste hustota dislokací. Tím se zmenšuje průměrná vzdálenost mezi dislokacemi a ty se začínají vzájemně odpuzovat. Výsledkem je, že pohyb jedné dislokace je čím dál více omezován přítomností jiných - proto napětí potřebné na deformaci materiálu roste se zvyšujícím se stupněm přetvoření. Deformační zpevnění je často komerčně využíváno ke zvýšení pevnosti celého objemu materiálu nebo alespoň jeho povrchové vrstvy.
+210.|přeměn martenzitického typu intersticiální tuhé roztoky – Fe-C, Fe-N substituční tuhé roztoky (Fe-Ni, Fe-Mn, Ni-Ti, Au-Cd – materiály s tvarovou pamětí) keramické materiály (ZrO 2 ,V 3 Si)
+211.|Van der Waalsovy mezimolekulové síly jsou nejslabší vazebné síly příkladem je jejich přítomnost v grafitu, kde váží navzájem jednotlivé vrstvy kovalentně vázaných atomů uhlíků Při působení relativně malou silou se vazby přeruší, řetězce spojené silnější vazbou zůstanou
+212.|Pružnost (modul pružnosti - v Hookově zákoně, Coulombův modul) Pevnost (zkoušky pevnosti v tahu, tlaku, ohybu, krutu a střihu) Tvárnost (Zkouška lámavosti, pěchováním, plechů hloubením) Houževnatost (zkouška rázem ohybu: Charpyho kladivo)
+213.|V mědi dochází ke snadnému příčnému skluzu. Největší vliv během cyklování má plastická deformace. Tento příčný skluz je možný pouze u šroubových dislokací. Nejspíše tvárný lom.
+214.|Ternární fázové diagramy = rovnovážné diagramy – soustavy o třech složkách A,B,C Řezy ternárními diagramy: Horizontální pro konstantní teplotu Vertikální pro daná složení (pseudobinární diagram)
