@@ -25,4 +25,4 @@ urlpatterns = [
     path('pairs/', views.pairs),
     path('pair/<int:id>', views.pair),
     path('', views.index),
-] # + static(settings.STATICFILES_DIRS[0], document_root=settings.STATIC_ROOT)
+] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
