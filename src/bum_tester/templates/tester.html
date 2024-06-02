@@ -2,11 +2,13 @@
 <!DOCTYPE html>
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Jakub Ramašeuski">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="/static/styles/style.css">
+    <link rel="stylesheet" type="text/css" href="{% static '/styles/style.css' %}">
     <title>BUM tester</title>
     <meta http-equiv="Access-Control-Allow-Origin" content="*">
-    <script src="/static/scripts/file_loader.js"></script>
+    <script src="{% static '/scripts/file_loader.js' %}"></script>
 </head>
 
 <body>
@@ -46,7 +48,8 @@
             </table>
         </div>
     </main>
-    <footer>If you have any requests on ways to improve this page, head to <a target="_blank"
-            href="https://github.com/lotricekCZ/BUM-verify/issues/new">this page</a> and hit me there!</footer>
-    <script src="/static/scripts/collapse.js"></script>
+    <footer><p>If you have any requests on ways to improve this page, head to <a target="_blank"
+            href="https://github.com/lotricekCZ/BUM-verify/issues/new">this page</a> and hit me there!</p>
+            <p>Jakub Ramašeuski © 2024</p></footer>
+    <script src="{% static '/scripts/collapse.js' %}"></script>
 </body>

@@ -7,7 +7,7 @@
 # Want to help us make this template better? Share your feedback here: https://forms.gle/ybq9Krt8jtBL3iCk7
 
 ARG PYTHON_VERSION=3.12.3
-FROM python:${PYTHON_VERSION}-slim as base
+FROM python:${PYTHON_VERSION}-alpine as base
 
 # Prevents Python from writing pyc files.
 ENV PYTHONDONTWRITEBYTECODE=1
@@ -39,13 +39,19 @@ RUN --mount=type=cache,target=/root/.cache/pip \
     python -m pip install -r requirements.txt
 
 # Switch to the non-privileged user to run the application.
-USER appuser
+# USER appuser
 
 # Copy the source code into the container.
-COPY . .
+COPY ./src /src
 
 # Expose the port that the application listens on.
-EXPOSE 3000
+EXPOSE 8000
 
+# WORKDIR sets the working directory for any subsequent RUN, CMD, ENTRYPOINT, COPY and ADD instructions in the Dockerfile.
+# It specifies the directory where commands are run.
+# In this case, we are setting the working directory to /src, which is where the source code is copied into the container.
+WORKDIR /src
+COPY ./entrypoint.sh /
 # Run the application.
-CMD gunicorn 'src.backend.wsgi' --bind=0.0.0.0:3000
+ENTRYPOINT [ "sh", "/entrypoint.sh" ]
+
