@@ -57,7 +57,7 @@ function new_question(state) {
     element.innerText = questions[index].question;
     let preproc = "<p>" + questions[index].answer + "</p>";
     for (i of questions[index].images) {
-        preproc = preproc.replace("{.png}", "</p><img style=\"max-height:500px;max-width:500px;\" src=\"/static/assets/images/" + i + "\"/><p>");
+        preproc = preproc.replace("{.png}", "</p><img src=\"/static/assets/images/" + i + "\"/><p>");
     }
     document.getElementById("answer").innerHTML = preproc;
 }
